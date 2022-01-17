@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Andreia Gonçalves
     tagline: BackOffice Assistant
-    avatar: src="https://media.discordapp.net/attachments/931309510956560418/931309644129910824/IMG-20220113-WA0000.jpg">
+    avatar: 
 
     # Sidebar links
     email: afcg.03@gmail.com
@@ -36,37 +36,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Sempre gostei de aprender e sempre investi no futuro em áreas diferentes,
+      seja por conhecimento como por crescimento pessoal.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Academia TechAnters
+      university: Damia Recruitment Academia
+      time: 2022
+        
+    - degree: Curso de Recursos Humanos / Aprenda Recursos Humanos na Prática / Recursos Humanos (Básico para iniciantes)
+      university: Udemy
+      time: Maio de 2021
+  
+    - degree: 12º ano - Curso de Animação Sociocultural
+      university: Escola Secundária Pedro alexandrino
+      time: 2007 - 2010
+        
 experiences:
-    - role: Lead Developer
+    - role: 12º ano - Curso de Animação Sociocultural
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
