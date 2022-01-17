@@ -7,7 +7,6 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    
     name: Andreia Gonçalves
     tagline: BackOffice Assistant
     avatar: "https://i.ibb.co/8sfkt6D/pic.png"
