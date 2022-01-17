@@ -36,7 +36,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Sempre gostei de aprender e sempre investi no futuro em áreas diferentes,
+      Sempre gostei de aprender e sempre investi na aprendizagem de áreas diferentes,
       seja por conhecimento como por crescimento pessoal.
       
 education:
@@ -53,21 +53,19 @@ education:
       time: 2007 - 2010
         
 experiences:
-    - role: 12º ano - Curso de Animação Sociocultural
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role:   Operadora de CallCenter e Backoffice
+      time: 2018 - Present
+      company: CGI (Edp Comercial)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+         - Acompanhamento do cliente ao telefone, devido ao incumprimento de débito directo, faturas eletrónicas, componentes (eletricidade e gás)
+         - Contratação de componentes e serviços (FCC's)
+         - Actualizações contratuais para atribuição de descontos (incumprimentos) 
+         - Cancelamento de serviços e componentes (CQV's) 
+         - Criação de solicitações, cartas, sms's nos contratos dos clientes e envio das mesmas 
+         - Alterar condições de pagamento, contas certas e mensalidades - Resposta de ajuda a colegas através de actividades e solicitações 
+         - Experiência com: FCMC, CRM, C360, Enterprise, P16, Timesheet, Go contact, Kolab 
+         - Formação a novos colegas 
+          
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
