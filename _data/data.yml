@@ -9,8 +9,8 @@ sidebar:
     # Profile information
     name: Andreia Gonçalves
     tagline: BackOffice Assistant
-    avatar: <img src="https://files.fm/thumb_show.php?i=xatm4jevx" alt="profile picture"/>
-
+    avatar: <span clss="image main"<img src="https://files.fm/thumb_show.php?i=xatm4jevx" alt="pic"/></span>
+    
     # Sidebar links
     email: afcg.03@gmail.com
     linkedin: andreiafgoncalves
